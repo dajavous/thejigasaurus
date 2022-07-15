@@ -1,4 +1,4 @@
-# thejigasaurus
+# thejigasaurus.com
 
 Briefly documents the changes made to Gallery v3.1.5 to suit migration from a Gallery2 website to provide a similar look and feel to users and the admins.
 
