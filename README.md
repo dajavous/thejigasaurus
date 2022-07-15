@@ -1,5 +1,5 @@
 # thejigasaurus
-Winmerge files describing the changes made to customise Galley the Revival
+Winmerge files describing the changes made to customise Gallery the Revival
 
 Download and expand to view the WinMerge details of changes made to Gallery the Revival version of Gallery3 v3.1.5 to customise the website https://www.oldtoysandgames.com/gallery315/ which will be renamed to https://www.thejigasaurus.com/ after the domain for the old Gallery2 site is moved to the new host.
 
