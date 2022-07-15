@@ -9,3 +9,5 @@ The modules activated for the installation are shown in the pdfs, as well as the
 The modules used can be found at http://codex.galleryproject.org/Gallery3:Modules and https://github.com/gallery/gallery3. 
 
 The theme used is Grey Dragon 4.0.2 which can be downloaded from https://blog.dragonsoft.us/gallery-3/, which also requires the greydragon module.
+
+For completeness, all required files are included here: Galleryv315 installation, modules and themes used.
