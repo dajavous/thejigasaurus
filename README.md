@@ -14,8 +14,6 @@ For completeness, all required files are included here: Gallery v315 initial fil
 
 Two additional fields were added to the SQL items table:
 
-Table structure for table items
-
 Column	    Type	Null	Default
 
 g2_summary	text	Yes	  NULL
