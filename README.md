@@ -17,5 +17,7 @@ Two additional fields were added to the SQL items table:
 Table structure for table items
 
 Column	    Type	Null	Default
+
 g2_summary	text	Yes	  NULL
+
 tag_album	  text	Yes	  NULL
