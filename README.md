@@ -20,4 +20,4 @@ g2_summary	text	Yes	  NULL
 
 tag_album	  text	Yes	  NULL
 
-with more fields needed for the Gallery2 to Gallery3 migration are shown in the structure pdf.
+with more fields needed for the Gallery2 to Gallery3 migration are shown in the Gallery315 database structure file.
