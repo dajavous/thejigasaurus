@@ -2,7 +2,7 @@
 
 Briefly documents the changes made to Gallery v3.1.5 to suit migration from a Gallery2 website to provide a similar look and feel to users and the admins. Further work has been completed to test the migration of thejigasaurus.com to run on PHP 8.1, currently hosted on its test site at: https://dajavous.com/gallery315
 
-Winmerge files describe the changes made to customise Gallery the Revival. Download and expand to view the WinMerge details of changes made to Gallery the Revival version of Gallery3 v3.1.5 to customise the website: https://www.thejigasaurus.com
+Winmerge files describe the changes made to customise Gallery the Revival, first to run on PHP 7.4 with the Greydragon theme, and then a further development running on PHP 8.1 with the Wide Wind theme. Download and expand to view the WinMerge files for details of changes made to Gallery the Revival version of Gallery3 v3.1.5 to customise the website: https://www.thejigasaurus.com
 
 A new version of the Winmerge files describes the further changes made to run thejigasaurus on its test site with PHP 8.1 using the Wide Wind theme.
 
