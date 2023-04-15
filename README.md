@@ -10,7 +10,7 @@ The modules used can be found at http://codex.galleryproject.org/Gallery3:Module
 
 The theme used for PHP 7.4 is Grey Dragon 4.0.2 which can be downloaded from https://blog.dragonsoft.us/gallery-3/, which also requires the greydragon module.
 
-For completeness, all required files for the PHP 7.4 version are included here: Gallery v315 initial files for installation on a web server with PHP and mySQL, the guide to installing Gallery3, plus the modules and theme used. The modules and theme include all the customisations made to these files - further customisations were made to other installation files as documented in the Winmerge report. 
+For completeness, all required files for the PHP 7.4 version are included here: Gallery v315 initial files for installation on a web server with PHP and mySQL, the guide to installing Gallery3, plus the modules and theme used. The modules and theme include all the customisations made to these files for PHP 7.4 - further customisations were made to other installation files as documented in the Winmerge report. 
 
 Two additional fields were added to the SQL items table:
 
