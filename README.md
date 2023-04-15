@@ -16,7 +16,7 @@ Two additional fields were added to the SQL items table:
 
 Column	    Type	Null	Default
 
-g2_summary	text	Yes	  NULL - the summary text shown on album thumbnails was imported manually, as this is merged with the description text in the G2 import module.
+g2_summary	text	Yes	  NULL - summary text on album thumbnails was imported in phpmyadmin, as this is merged with the description text in the G2 import module.
 
 tag_album	  text	Yes	  NULL - used to identify tag albums, and then hide them from the album thumbnails and albumtree.
 
